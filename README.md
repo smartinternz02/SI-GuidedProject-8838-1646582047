@@ -1,7 +1,7 @@
 # SI-GuidedProject-8744-1645608152
 Health Insurance Cost Prediction
 
-#Hi,I am Devendra and welcome to my new project under machinelearning,
+#Hi,I am Devendra Reddy and welcome to my new project under machinelearning,
 This Contains three parts of Project.
 
 1.Training: contains the model building code and Training the model.We convert this file to pickle to deploy the model.
